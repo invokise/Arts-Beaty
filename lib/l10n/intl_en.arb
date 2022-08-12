@@ -1,0 +1,12 @@
+{
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "repeatPassword": "Repeat password",
+    "artAndBeaty": "Art & Beaty",
+    "services": "Services",
+    "customerReviews": "Customer reviews"
+
+}
